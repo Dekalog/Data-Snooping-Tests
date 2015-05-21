@@ -21,3 +21,6 @@ c is a very simple implementation of White's Reality check for a single test.
 d is an Octave .Oct implementation of the permutation test as detailed in
 
  http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470008741.html
+ 
+Also included are various papers on the subject of data snooping.
+ 
